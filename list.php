@@ -52,7 +52,7 @@ if (!empty($_POST['posted'])) {
                 <br/>
                 <textarea name="question1" rows=12 cols=35><?=$comments?></textarea>
                 </td></tr>
-                <tr><td>
+                <tr><td> 
                 <input type="submit" name="submit" value="Отправить">
             </form></td></tr>
     </table>
